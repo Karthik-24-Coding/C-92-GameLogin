@@ -1,0 +1,54 @@
+body
+{
+	background-color: orange;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(228, 51, 51);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+	#player1 , #player2
+	{
+		color: rgb(8, 115, 187);
+		font: caption;
+	}
+
+	#quiz_title
+	{
+		color: rgb(28, 158, 61);
+		font: italic;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#player_question , #player_answer
+{
+	color: limegreen;
+	font: oblique;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(160, 229, 238);
+border-radius: 10px;
+border-top: 10px solid #eb4242;
+padding: 10px;
+float: none;
+text-align: left;
+}
